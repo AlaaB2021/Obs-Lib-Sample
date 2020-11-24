@@ -1,18 +1,13 @@
-# Nodejs-Napi-Addon-Using-Cmake
+ObsAppNode
 
-Code Repository for tutorial of C++ Native Addon independent of Node.js version using Napi/node-addon-api and Cmake
-
-Checkout this article for details         
-[C++ Native Addon independent of Node.js version using Napi/node-addon-api and Cmake](https://medium.com/@gauriatiq/c-native-addon-independent-of-node-js-version-using-napi-node-addon-api-and-cmake-53315582cbd1)
-</br> </br>
+Code Repository for C++ Native Addon Napi/node-addon-api and Cmake
 
 ## installation
 ```
-git clone https://github.com/AtiqGauri/Nodejs-Napi-Addon-Using-Cmake.git
-cd Nodejs-Napi-Addon-Using-Cmake
+git clone https://github.com/AlaaB2021/Obs-Lib-Sample.git
+cd Obs-Lib-Sample/ObsAppNode
 npm install
 npm start
 ```
 
-### License         
-[MIT](https://github.com/AtiqGauri/Nodejs-Napi-Addon-Using-Cmake/blob/master/LICENSE)
+Note: It is not working yet, it has a bug loading the obs libraries.
